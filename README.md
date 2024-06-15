@@ -1,6 +1,6 @@
-<h1 align="center">Applied Probability and Statistics</h1>
+<h1 align="center">Admission Analysis</h1>
 
-"Applied Probability and Statistics" is a final exam project from "Applied Probability and Statistics" course at Singidunum University. The course was designed to teach students the fundamental of statistical analysis of data using the Python programming language. Students were tasked to load a dataset into a jupyter notebook and do simple EDA (Exploratory Data Analysis), as well as do statistical calculations.
+"Admission Analysis" is a final exam project from "Applied Probability and Statistics" course at Singidunum University. The course was designed to teach students the fundamental of statistical analysis of data using the Python programming language. Students were tasked to load a dataset into a jupyter notebook and do simple EDA (Exploratory Data Analysis), as well as do statistical calculations.
 
 ## 🧰 Languages & Tools
 
